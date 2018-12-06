@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Backgrounds\youwin.PNG</Source>
+      <Name>Backgrounds\youwin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Backgrounds\youwin.xnb</Output>
+      <Time>2014-05-13T02:50:40.8355292-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\computerwins.PNG</Source>
+      <Name>Backgrounds\computerwins</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Backgrounds\computerwins.xnb</Output>
+      <Time>2014-05-13T02:50:39.8374624-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\titlescreen.PNG</Source>
+      <Name>Backgrounds\titlescreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Backgrounds\titlescreen.xnb</Output>
+      <Time>2014-05-13T02:50:40.6005839-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\theend.PNG</Source>
+      <Name>Backgrounds\theend</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Backgrounds\theend.xnb</Output>
+      <Time>2014-05-13T02:50:40.3164895-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\blankbackground.PNG</Source>
+      <Name>Backgrounds\blankbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Backgrounds\blankbackground.xnb</Output>
+      <Time>2014-05-13T02:50:39.0964603-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Words\tictactoe.PNG</Source>
+      <Name>Words\tictactoe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Words\tictactoe.xnb</Output>
+      <Time>2014-05-13T02:50:44.1687155-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Words\jimmyellismadethis.PNG</Source>
+      <Name>Words\jimmyellismadethis</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Words\jimmyellismadethis.xnb</Output>
+      <Time>2014-05-13T02:50:44.0817834-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Pieces\board.PNG</Source>
+      <Name>Pieces\board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Pieces\board.xnb</Output>
+      <Time>2014-05-13T02:50:42.1075947-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Pieces\o.PNG</Source>
+      <Name>Pieces\o</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Pieces\o.xnb</Output>
+      <Time>2014-05-13T02:50:42.1775993-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Pieces\x.PNG</Source>
+      <Name>Pieces\x</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Pieces\x.xnb</Output>
+      <Time>2014-06-22T22:19:24.988501-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\continue.PNG</Source>
+      <Name>Buttons\continue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Buttons\continue.xnb</Output>
+      <Time>2014-05-13T02:50:40.9375263-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\continuehit.PNG</Source>
+      <Name>Buttons\continuehit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Buttons\continuehit.xnb</Output>
+      <Time>2014-05-13T02:50:41.0435373-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\replay.PNG</Source>
+      <Name>Buttons\replay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Buttons\replay.xnb</Output>
+      <Time>2014-05-13T02:50:41.1285375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\replayhit.PNG</Source>
+      <Name>Buttons\replayhit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Buttons\replayhit.xnb</Output>
+      <Time>2014-05-13T02:50:41.2205422-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Collisions\boxcollision01.png</Source>
+      <Name>Collisions\boxcollision01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Collisions\boxcollision01.xnb</Output>
+      <Time>2014-05-13T02:50:41.3556263-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Collisions\boxcollision02.png</Source>
+      <Name>Collisions\boxcollision02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Collisions\boxcollision02.xnb</Output>
+      <Time>2014-05-13T02:50:41.4056313-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Collisions\boxcollision03.png</Source>
+      <Name>Collisions\boxcollision03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Collisions\boxcollision03.xnb</Output>
+      <Time>2014-05-13T02:50:41.4585563-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Collisions\boxcollision04.png</Source>
+      <Name>Collisions\boxcollision04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Collisions\boxcollision04.xnb</Output>
+      <Time>2014-05-13T02:50:41.5185684-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Collisions\boxcollision05.png</Source>
+      <Name>Collisions\boxcollision05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Collisions\boxcollision05.xnb</Output>
+      <Time>2014-05-13T02:50:41.572563-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Collisions\boxcollision06.png</Source>
+      <Name>Collisions\boxcollision06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Collisions\boxcollision06.xnb</Output>
+      <Time>2014-05-13T02:50:41.6256393-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Collisions\boxcollision07.png</Source>
+      <Name>Collisions\boxcollision07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Collisions\boxcollision07.xnb</Output>
+      <Time>2014-05-13T02:50:41.6825692-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Collisions\boxcollision08.png</Source>
+      <Name>Collisions\boxcollision08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Collisions\boxcollision08.xnb</Output>
+      <Time>2014-05-13T02:50:41.7405738-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Collisions\boxcollision09.png</Source>
+      <Name>Collisions\boxcollision09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Collisions\boxcollision09.xnb</Output>
+      <Time>2014-05-13T02:50:41.7945798-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\TicTacToe.wav</Source>
+      <Name>Sound\TicTacToe</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Sound\TicTacToe.xnb</Output>
+      <Extra>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Sound\TicTacToe.wma</Extra>
+      <Time>2014-05-13T02:50:43.964706-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\SpriteFont1.spritefont</Source>
+      <Name>Content\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Content\SpriteFont1.xnb</Output>
+      <Time>2014-05-13T02:50:41.9205833-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\LargeFont.spritefont</Source>
+      <Name>Content\LargeFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Content\LargeFont.xnb</Output>
+      <Time>2014-05-13T02:50:41.8755803-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\SpriteFont2.spritefont</Source>
+      <Name>Content\SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\Content\SpriteFont2.xnb</Output>
+      <Time>2014-05-13T02:50:41.9725869-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToeContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToeContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\GeniusGameEmployee\Desktop\SHOW\JIMMYS UNBEATABLE TIC TAC TOE AI\TicTacToe-master\TicTacToe\TicTacToe\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-05-08T01:47:36.7323102-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
