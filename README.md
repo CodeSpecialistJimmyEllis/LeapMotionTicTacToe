@@ -1,6 +1,26 @@
 -----------
 TIC TAC TOE
 -----------
+
+
+----------------------
+(2026 Update) So I just wanted to add my story behind this. I was literally trying to get a job at this wonderful software engineering firm called 8th Light. They had the most beautiful understandings of code and the friendliest employees and back before the pandemic as this happened in 2014 they would host code events teaching coding as a true craftsmanship all the time.
+
+So I got them to at least try me out for their apprentice program. They asked me to make an unbeatable tic tac toe AI. I noticed most solutions were text based so I was going to make my solution using the XNA Game Frame Work (Direct X version for Xbox 360). Most people were calling an API that already has some sort of game logic AI in it (the old type of AI not that new LLM greatness) so I decided to completely just figure out my own version of an unbeatable Tic Tac Toe AI. I thought solving the problem would be fun. So i did. So I wrote it out and made it and it was 3149 lines of code hand written. We didn't have AI back then so it was just me making countless diagrams about tic tac toe and then manifesting that logic into AI for the couple of days it took to make this AI.
+
+I made an unbeatable tic tac toe AI by hand. It literally is unbeatable.
+
+But it still has a glaring weakness.
+
+You see I made it so that the AI goes first and always picks the middle spot. And then from there it perfectly makes the next move no matter what you choose. The problem is that they wanted the AI to go FIRST or SECOND and the AI be unbeatable. They told me this in their response e-mail and I understood it was going to take another week of writing another 3000+ line of code solution and dreaming about TiC Tac Toe grids. In the end, even though it was for a job, I didn't follow up and make it so that the tic tac toe was unbeatable no matter if it went first or second.
+
+So I didn't get the job.
+
+But I was apprenticed later 5 years later in 2019 at Accenture where, after a successful apprenticeship, worked there for 6 years. It was my Accenture Adventure. Wouldn't trade it for the world.
+
+You can look at the Tic Tac Toe Ai its the file TicTacToeAI.cs
+(End 2026 Update)
+----------------------------------------
 Hello Everyone,
 
 Jimmy Ellis
